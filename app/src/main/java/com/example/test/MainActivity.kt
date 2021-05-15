@@ -13,5 +13,8 @@ class MainActivity : AppCompatActivity() {
         val string = "newstring"
 
         val newbranch = "new branch"
+
+        val newbranch2 = "new branch"
+
     }
 }
